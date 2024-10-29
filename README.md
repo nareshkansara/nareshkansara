@@ -2,7 +2,7 @@
   <img src="https://github.com/nareshkansara/nareshkansara/blob/main/github%20banner.png" alt="Welcome Banner" width="800"/>
 </p>
 
-<h1 align="center">Hi there, I'm Naresh! 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   Welcome to my GitHub profile! I’m a front-end developer with a passion for creating seamless and visually appealing web experiences.
@@ -47,7 +47,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/footer.png" alt="Footer Image" width="800"/>
-</p>
