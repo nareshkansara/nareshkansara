@@ -19,5 +19,5 @@ Welcome to my GitHub profile! I’m a front-end developer with a passion for cre
 - Collaborate on open-source projects related to front-end development.
 
 ## 🌐 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/naresh) - Feel free to connect for insights, collaboration, or just a friendly hello!
-- **Email:** naresh@example.com
+- [LinkedIn](https://www.linkedin.com/in/naresh-kansara-a273b0200/) - Feel free to connect for insights, collaboration, or just a friendly hello!
+- **Email:** nareshh.dev@gmail.com
