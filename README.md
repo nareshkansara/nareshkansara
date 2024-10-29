@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/banner.png" alt="Welcome Banner" width="800"/>
+  <img src="https://github.com/nareshkansara/nareshkansara/blob/main/github%20banner.png" alt="Welcome Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi there, I'm Naresh! 👋</h1>
