@@ -22,7 +22,7 @@
 
 ---
 
-### 💻 Current Projects
+### 💻 Experience
 - **Custom Shopify Themes:** Responsive, stylish Shopify themes with dynamic and user-friendly layouts.
 - **Shopify Apps:** Apps for form management and pro customization options for enhanced store features.
 - **Chrome Extensions:** Tools to streamline Shopify store tasks, like product downloads and customization.
