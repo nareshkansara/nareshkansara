@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/nareshkansara/nareshkansara/blob/main/github%20banner.png" alt="Welcome Banner" width="800"/>
-</p>
-
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
