@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&color=blue"/>
   <img src="https://img.shields.io/badge/Framework-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&color=cyan"/>
   <img src="https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&color=blue"/>
-   <img src="https://img.shields.io/badge/Figma-to-website-informational?style=flat&logo=Figma&color=blue"/>
+   <img src="https://img.shields.io/badge/Figma to website-informational?style=flat&logo=Figma&color=blue"/>
 </p>
 
 ---
