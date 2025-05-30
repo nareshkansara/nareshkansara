@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Code-Liquid-informational?style=flat&logo=shopify&color=green"/>
   <img src="https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&color=blue"/>
   <img src="https://img.shields.io/badge/Framework-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&color=cyan"/>
-  <img src="https://img.shields.io/badge/CMS-Shopify-informational?style=flat&logo=shopify&color=green"/>
   <img src="https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&color=blue"/>
 </p>
 
